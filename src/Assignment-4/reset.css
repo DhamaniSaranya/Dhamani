@@ -145,8 +145,11 @@
         justify-self: start;
         justify-content: center;
     }
-    .nav2{
+    .navi2{
         text-align: center;
+        padding-top: 80px;
+    }
+    .nav2{
         color: black;
     }
     .button2{
@@ -156,15 +159,13 @@
         background-color: #acb7ce;
         color: black;
     }
-    .navi2{
-        padding-top: 50px;
-    }
     button:hover{
         background-color: white;
+        border: 2px solid blue;
         color: black;
     }
     a:hover{
         background-color: white;
-        color: black;
         padding: 5px;
+        color: #acb7ce;
     }
